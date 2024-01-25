@@ -7797,7 +7797,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `rollno`, `email`, `password`, `role`, `userimage`, `name`, `class`, `section`, `subject`, `country`, `state`, `city`) VALUES
-(1, 0, 'aayushpatidar04@gmail.com', 'Aayush@04', 'admin', 'images/users/20230205_071829.jpg', 'Aayush Patidar', '', '', '', 'India', 'Kerala', 'Calicut'),
+(1, 0, 'aayushpatidar04@gmail.com', '123456', 'admin', 'images/users/20230205_071829.jpg', 'Aayush Patidar', '', '', '', 'India', 'Kerala', 'Calicut'),
 (3, 0, 'a2@gmail.com', '123456', 'admission', 'images/users/IMG_20230531_104410.jpg', 'a2', '', '', '', 'India', 'Andhra Pradesh', 'Bulandshahar'),
 (4, 0, 't1@gmail.com', '123456', 'teacher', 'images/users/IMG_20230531_104410.jpg', 't1', '', '', 'Math', 'India', 'Chandigarh', 'Chandigarh'),
 (5, 0, 't2@gmail.com', '123456', 'teacher', 'images/users/IMG_20230531_104410.jpg', 't2', '', '', 'Physics', 'India', 'Gujarat', 'Rajkot'),
